@@ -15,8 +15,6 @@
         line-height: 70px;
     }
 }
-/*добавил брейкпойнт, иначе текст 
-вылезает за рамки и ломает верстку*/
 
 @media screen and (max-width: 560px) {
     .lead__title {
